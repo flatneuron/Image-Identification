@@ -1,6 +1,6 @@
 # Image-Identification
 
-**[Project Report (Google Doc)](https://docs.google.com/document/d/your_report_link_here)**
+**[Project Report (Google Doc)](https://docs.google.com/document/d/1GMbW36UGNDOptlfN6k8duxEal2MUcxNH6vINbGsS3RU/edit?usp=sharing)**
 
 This repository provides two approaches for image identification:
 - **Exact Image Search**
@@ -42,7 +42,7 @@ This approach enables robust similarity search, even for images that are not exa
 
 ## 📄 Report
 A detailed report describing the methodology, experiments, and results can be found here:
-**[Project Report (Google Doc)](https://docs.google.com/document/d/your_report_link_here)**
+**[Project Report (Google Doc)](https://docs.google.com/document/d/1GMbW36UGNDOptlfN6k8duxEal2MUcxNH6vINbGsS3RU/edit?usp=sharing)**
 
 ---
 
